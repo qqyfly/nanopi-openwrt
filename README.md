@@ -1,4 +1,4 @@
-# Nanopi R1S R2S R2C R4S X86 Openwrt 固件
+# Nanopi R1S R2S R2C R4S X86 Openwrt 固件 （添加passwall2,进行中）
 
 [刷机工具](https://www.balena.io/etcher/)  
 [下载地址](#下载地址)  
